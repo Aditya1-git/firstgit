@@ -1,1 +1,5 @@
-saved file hello my name is aditya raj and how are you 
+#include<iostream>
+using namespaces std;
+int main(){
+cout<<"hello world";
+}
